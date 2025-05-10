@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img style="height:280px" src="https://i.pinimg.com/736x/4e/1a/f0/4e1af01377a347b3a0455cc921d4793c.jpg"/>
+  <img style="height:300px" src="https://i.ytimg.com/vi/IudNszhA4NM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgVChlMA8=&rs=AOn4CLC_km2gy2_QOhlV8N_sBFZNS3ZfpQ"/>
 </p>
