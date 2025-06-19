@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img style="height:300px" src="https://i.ytimg.com/vi/IudNszhA4NM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEMgVChlMA8=&rs=AOn4CLC_km2gy2_QOhlV8N_sBFZNS3ZfpQ"/>
+<p align="start">
+  <img style="height:200px" src="https://i.pinimg.com/originals/39/2f/50/392f50c714cf6bf549e5878a913c996d.gif"/>
 </p>
