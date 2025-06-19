@@ -1,4 +1,4 @@
-## (づ｡◕‿‿◕｡)づ
+# (づ｡◕‿‿◕｡)づ
 
 <!--
 **Manav437/Manav437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="start">
-  <img style="height:200px" src="https://i.pinimg.com/originals/39/2f/50/392f50c714cf6bf549e5878a913c996d.gif"/>
+<p align="start" display="flex">
+<!--   <img style="height:200px" src="https://i.pinimg.com/originals/39/2f/50/392f50c714cf6bf549e5878a913c996d.gif"/> -->
+  <img style="height:300px" src="https://i.pinimg.com/originals/c0/cf/b6/c0cfb665498b34c393da96dd23dde9e3.gif"/>
 </p>
