@@ -5,20 +5,14 @@
     <td align="left">
       <img src="https://i.pinimg.com/1200x/8d/54/7e/8d547eeed99e12413c4d58780b33c9cd.jpg" height="250" />
     </td>
-    <td align="center">
-      <img src="https://i.pinimg.com/736x/e5/7b/9c/e57b9c990271fd73bb133caeddeb44e5.jpg" height="250" />
-    </td>
-     <td align="right">
-      <img src="https://i.pinimg.com/1200x/c2/fd/19/c2fd19a72e345e461dccb404f903e9c2.jpg" height="250" />
+    <td align="left">
+      <h1>Projects</h1>
+      <a href="https://0password.vercel.app"><strong>0Password</strong></a> — zero-knowledge, client-side encrypted password manager <br/>
+      <a href="https://team-tasks-ljps.vercel.app"><strong>Team Tasks</strong></a> — dashboard for effortless team management <br/>
+      <a href="https://huddle-rosy-five.vercel.app"><strong>Huddle</strong></a> — modern social networking app built with React and Firebase <br/>
+      <a href="https://off-brand-sigma.vercel.app"><strong>Off Brand</strong></a> — digital storefront designed to demonstrate modern web aesthetics <br/>
+      <a href="https://chat-app-0l5x.onrender.com"><strong>Chatly</strong></a> — ephemeral, real-time communication platform with zero data persistence <br/>
+      <a href="https://ai-chatbot-hff1.onrender.com"><strong>Gemini X</strong></a> — AI chatbot interface powered by Google's Gemini 2.0 Flash
     </td>
   </tr>
 </table>
-
-## Projects
-
-> [**0Password**](https://0password.vercel.app) - zero-knowledge, client-side encrypted password manager <br/>
-> [**Team Tasks**](https://team-tasks-ljps.vercel.app) - About dashboard for effortless team management <br/>
-> [**Huddle**](https://huddle-rosy-five.vercel.app) - modern social networking app built with React and Firebase <br/>
-> [**Off Brand**](https://off-brand-sigma.vercel.app) - digital storefront designed to demonstrate modern web aesthetics <br/>
-> [**Chatly**](https://chat-app-0l5x.onrender.com) - ephemeral, real-time communication platform with glassmorphic design and zero data persistence <br/>
-> [**Gemini X**](https://ai-chatbot-hff1.onrender.com) - AI chatbot interface powered by Google's Gemini 2.5 Flash
